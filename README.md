@@ -2,7 +2,21 @@
 <p align='center'>I'm Edwin Sanjo Soji.</p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-## Connect with me:
+
+## What I Know:
+
+<p align = "center">
+
+[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871449880365772820/mongo.png">](https://www.mongodb.com/)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449885273124965/react.png" />](https://reactjs.org/) 
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449876251172924/python.png" />](http://www.python.org/)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453871271198812/css.png" />](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449889920409600/js.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453868159033384/bootstrap.jpg" />](https://getbootstrap.com/)
+
+</p>
+
+## Connect with Me:
 
 <p align = "center">
 
