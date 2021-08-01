@@ -6,10 +6,10 @@
 
 <p align = "center">
 
-[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871443774834884688/world-wide-web.png?width=100&height=100">](https://edwinsanjosoji.tk/)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871443806980014120/twitter.png?width=100&height=100" />](https://twitter.com/edwin_sanjo) 
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871443739707592764/instagram.png?width=100&height=100" />](https://instagram.com/edwin.sanjo)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871448967995617290/discord_1.png" />](https://discord.com/users/763978445847658527)
+[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871449880365772820/world-wide-web_1.png">](https://edwinsanjosoji.tk/)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449885273124965/twitter_1.png" />](https://twitter.com/edwin_sanjo) 
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449876251172924/instagram_1.png" />](https://instagram.com/edwin.sanjo)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449889920409600/discord_1.png" />](https://discord.com/users/763978445847658527)
 
 </p>
 
