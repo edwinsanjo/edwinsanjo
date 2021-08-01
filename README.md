@@ -7,9 +7,9 @@
 
 <p align = "center">
 
-[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871449880365772820/mongo.png">](https://www.mongodb.com/)
+[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871453879118725190/mongo.png">](https://www.mongodb.com/)
 [<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449885273124965/react.png" />](https://reactjs.org/) 
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449876251172924/python.png" />](http://www.python.org/)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453882063134780/python.png" />](http://www.python.org/)
 [<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453874043625552/html-5.png" />](https://en.wikipedia.org/wiki/HTML)
 [<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453871271198812/css.png" />](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453877004808232/js.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
