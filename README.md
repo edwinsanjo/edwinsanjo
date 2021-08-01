@@ -6,10 +6,10 @@
 
 <p align = "center">
 
-[<img src ="fa fa-instagram">](https://edwinsanjosoji.tk/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/edwin_sanjo) 
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/edwin.sanjo)
-  [<img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://discord.com/users/763978445847658527
+[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871443774834884688/world-wide-web.png">](https://edwinsanjosoji.tk/)
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871443806980014120/twitter.png" />](https://twitter.com/edwin_sanjo) 
+[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871443739707592764/instagram.png" />](https://instagram.com/edwin.sanjo)
+  [<img src="https://cdn.discordapp.com/attachments/779950551110516737/871443835547435008/discord.png" />](https://discord.com/users/763978445847658527
 )
 
 </p>
