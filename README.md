@@ -3,28 +3,14 @@
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-## What I Know:
-
-<p align = "center">
-
-[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871453879118725190/mongo.png">](https://www.mongodb.com/)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449885273124965/react.png" />](https://reactjs.org/) 
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453882063134780/python.png" />](http://www.python.org/)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453874043625552/html-5.png" />](https://en.wikipedia.org/wiki/HTML)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453871271198812/css.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453877004808232/js.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871453868159033384/bootstrap.jpg" />](https://getbootstrap.com/)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/edwin sanjo soji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="edwin sanjo soji" height="30" width="40" /></a>
+<a href="https://twitter.com/edwin_sanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwin_sanjo" height="30" width="40" /></a>
+<a href="https://instagram.com/edwin.sanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin.sanjo" height="30" width="40" /></a>
 </p>
 
-## Connect with Me:
-
-<p align = "center">
-
-[<img src ="https://cdn.discordapp.com/attachments/779950551110516737/871449880365772820/world-wide-web_1.png">](https://edwinsanjosoji.tk/)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449885273124965/twitter_1.png" />](https://twitter.com/edwin_sanjo) 
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449876251172924/instagram_1.png" />](https://instagram.com/edwin.sanjo)
-[<img src="https://cdn.discordapp.com/attachments/779950551110516737/871449889920409600/discord_1.png" />](https://discord.com/users/763978445847658527)
-
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
