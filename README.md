@@ -1,6 +1,6 @@
-<p align='left'>Hello There</p>
+<p align='left'>⎯⎯⎯⎯Hello There</p>
 <h1 align='left'>I am Edwin Sanjo Soji.</h1>
-<p align='left'><i>Stay awesome!</i></p>
+<h1 align='left'><i>Web Developer</i></h1>
 
 
 <h3 align="left">Connect with me:</h3>
