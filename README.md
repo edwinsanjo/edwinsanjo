@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/edwin sanjo soji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="edwin sanjo soji" height="30" width="40" /></a>
+<a href="https://dev.to/edwinsanjo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="edwin sanjo soji" height="30" width="40" /></a>
 <a href="https://twitter.com/edwin_sanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwin_sanjo" height="30" width="40" /></a>
 <a href="https://instagram.com/edwin.sanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin.sanjo" height="30" width="40" /></a>
 </p>
