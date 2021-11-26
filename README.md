@@ -1,6 +1,6 @@
 <p align='left'>――Hello There</p>
-<p>i am <h1 align='left'>Edwin Sanjo Soji</h1></p>
-<p>a <h1 align='left'><i>Web Developer</i></h1></p>
+<h1 align='left'>Edwin Sanjo Soji</h1>
+<h1 align='left'><i>Web Developer</i></h1>
 
 
 <h3 align="left">Connect with me:</h3>
