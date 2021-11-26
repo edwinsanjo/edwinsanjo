@@ -1,4 +1,4 @@
-<p align='left'>⎯⎯⎯ Hello There</p>
+<p align='left'>――――Hello There</p>
 <h1 align='left'>Edwin Sanjo Soji</h1>
 <h1 align='left'><i>Web Developer</i></h1>
 
