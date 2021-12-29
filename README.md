@@ -28,7 +28,10 @@ I am fourteen years old School student who like to be a 🚀 `Space Scientist` a
 ## Connect With Me
 
 <p align="left">
+<a href="https://codepen.io/edwins sanjo soji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edwins sanjo soji" height="30" width="40" /></a>
 <a href="https://dev.to/edwinsanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edwinsanjo" height="30" width="40" /></a>
+<a href="https://twitter.com/edwin_sanjo_soji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwin_sanjo_soji" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7034850956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7034850956" height="30" width="40" /></a>
 <a href="https://instagram.com/edwin.sanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin.sanjo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/edwin sanjo soji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edwin sanjo soji" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/763978445847658527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/763978445847658527" height="30" width="40" /></a>
