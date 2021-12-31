@@ -33,7 +33,7 @@ I am fourteen years old School student who like to be a 🚀 `Space Scientist` a
     <a href="https://twitter.com/edwin_sanjo_soji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwin_sanjo_soji" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/7034850956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7034850956" height="30" width="40" /></a>
     <a href="https://instagram.com/edwin.sanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin.sanjo" height="30" width="40" /></a>
-    <a href="https://discord.gg/https://discord.com/users/763978445847658527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/763978445847658527" height="30" width="40" /></a>
+    <a href="https://discord.com/users/763978445847658527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 ## Stats
