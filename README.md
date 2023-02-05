@@ -19,4 +19,4 @@ I am fif-teen(+1) years old School student who like to be a 🚀 `Space Scientis
 
 <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinsanjo&show_icons=true&theme=nord&locale=en&layout=compact" alt="edwinsanjo" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinsanjo&theme=nord&show_icons=true&locale=en" alt="edwinsanjo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinsanjo&theme=nord&show_icons=true&locale=en" alt="edwinsanjo" /></p>
