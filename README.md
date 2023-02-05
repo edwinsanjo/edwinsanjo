@@ -3,7 +3,7 @@
 
 
 ## About Me
-I am fif-teen(+1) years old School student who like to be a 🚀 `Space Scientist` and i like to code too... i am a big fan of `spacex`, `nasa` and `isro`, i am a full stack web developer and make discordbot with discord.py and discord.js i am a big fan of tailwindcss the css framework
+I am fif-teen(+1) years old School student who like to be a 🚀 `Space Scientist` and i like to code too... i am a big fan of `spacex`, `nasa` and `isro`, i am a full stack web developer and loves to make websites to friends for free `LOL`. currently inactive due to exams and shit. I makes many templates too check it out and try out some and find how easy it is to use them. Thank me by following me
 ## 🛠 Skills
 
 <p align="left"> 
