@@ -3,7 +3,7 @@
 
 
 ## About Me
-I am fif-teen(+1) years old School student who like to be a 🚀 `Space Scientist` and i like to code too... i am a big fan of `spacex`, `nasa` and `isro`, i am a full stack web developer and loves to make websites to friends for free `LOL`. currently inactive due to exams and shit. I makes many templates too check it out and try out some and find how easy it is to use them. Thank me by following me
+I am programmer just a hobby programmer not as profession or doesn't have any shitty degrees. if you wanna contact me use the socials below. I mainly use Instagram so i will be more available there.
 ## 🛠 Skills
 
 <h3 align="left">Connect with me:</h3>
