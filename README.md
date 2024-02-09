@@ -3,7 +3,7 @@
 
 
 ## About Me
-I am programmer just a hobby programmer not as profession or doesn't have any shitty degrees. if you wanna contact me use the socials below. I mainly use Instagram so i will be more available there.
+I am a programmer any doubts check the repos wanna contact me use the socials below (more available on instagram).
 ## 🛠 Skills
 
 <h3 align="left">Connect with me:</h3>
