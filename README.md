@@ -3,13 +3,11 @@
 
 
 ## About Me
-I am a programmer any doubts check the repos wanna contact me use the socials below (more available on instagram).
+blah blah blah.. whatever
 ## 🛠 Skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/edwinsanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edwinsanjo" height="30" width="40" /></a>
-<a href="https://dev.to/edwinsanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edwinsanjo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/edwinsanjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="edwinsanjo" height="30" width="40" /></a>
 <a href="https://instagram.com/_edwin_12_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_edwin_12_" height="30" width="40" /></a>
 </p>
