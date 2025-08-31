@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/_edwin_12_" style="margin: 0 10px;">
+  <a href="https://instagram.com/_edwin_12_" style="margin: 0 40px;">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=24"/>
   </a>
   <a href="https://linkedin.com/edwin-sanjo-soji" style="margin: 0 10px;">
