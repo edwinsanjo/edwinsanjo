@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/thepiyushmalhotra/">
     <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
   </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="50" style="border-radius: 10px;" src="https://vectorified.com/images/personal-website-icon-28.png"/>
+  <a style="border-radius: 10px;" href="https://www.instagram.com/thepiyushmalhotra/">
+    <img height="50 src="https://vectorified.com/images/personal-website-icon-28.png"/>
   </a>
 </div>
