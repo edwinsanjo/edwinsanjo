@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=01&multiline=true&repeat=false&width=670&height=130&lines=Hello+There;I+am+Edwin+Sanjo+Soji" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=01&center=true&vCenter=true&multiline=true&width=470&height=130&lines=Hello+There%F0%9F%91%8B;I+am+Edwin+Sanjo+Soji" alt="Typing SVG" /></a></div>
 
 <div align="center">
 <h1 align="center"> Get In Touch</h1>
