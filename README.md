@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient&customColorList=0,2,2,5,30&text=Hello%20World!&descAlign=57&animation=blink&fontAlignY=50"/>
 </p>
 
-<h2> Get In Touch</h2>
+<h2 align="center"> Get In Touch</h2>
 <div align="center">
   <a href="https://www.instagram.com/thepiyushmalhotra/">
     <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
