@@ -17,6 +17,6 @@
     <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
   </a>
   <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/customer-feedback-soft-fill/60/Website-Testimonial-review-personal-quotation-128.png"/>
+    <img height="50" src="https://vectorified.com/images/personal-website-icon-28.png"/>
   </a>
 </div>
