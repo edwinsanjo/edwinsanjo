@@ -22,12 +22,12 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/_edwin_12_" style="margin: 0 40px;">
+  <a href="https://instagram.com/_edwin_12_">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=24"/>
-  </a>
-  <a href="https://linkedin.com/edwin-sanjo-soji" style="margin: 0 10px;">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/edwin-sanjo-soji" >
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=24"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/edwinsanjosoji">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=24"/>
   </a>
