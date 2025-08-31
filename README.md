@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&multiline=true&repeat=false&width=435&height=130&lines=Hello+There;I+am+Edwin+Sanjo+Soji)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&multiline=true&repeat=false&width=470&height=130&lines=Hello+There;I+am+Edwin+Sanjo+Soji" alt="Typing SVG" /></a>
+
 
 <h1 align="center"> Get In Touch</h1>
 <br><br>
