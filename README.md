@@ -7,16 +7,16 @@
   <br>
   <a href="https://instagram.com/_edwin_12_">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/edwin-sanjo-soji" >
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/edwinsanjosoji">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=12" width="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=12" width="120"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://edwinsanjosoji.is-a.dev/">
     <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/refs/heads/main/assets/Group2.png" width="120"/>
   </a>
