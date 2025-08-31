@@ -14,7 +14,7 @@
   <img height="50" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"/>
 </a>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"/>
+  <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
 </a>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"/>
