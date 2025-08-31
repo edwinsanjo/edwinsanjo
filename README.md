@@ -20,3 +20,7 @@
     <img height="40" src="https://vectorified.com/images/personal-website-icon-28.png"/>
   </a>
 </div>
+
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
