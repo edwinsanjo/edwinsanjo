@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient&customColorList=30&text=Hello%20World!&descAlign=57&animation=blink&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient&desc=Hello%20capsule%20render&customColorList=30&text=Hello%20World!&descAlign=57&animation=blink&fontAlignY=50"/>
 </p>
 
 <h1 align="center"> Get In Touch</h1>
