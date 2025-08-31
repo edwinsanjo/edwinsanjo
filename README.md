@@ -4,19 +4,19 @@
 
 ## Get In Touch
 <div align="center">
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"/>
-</a>
+  <a href="https://www.instagram.com/thepiyushmalhotra/">
+    <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
+  </a>
+  <a href="https://www.instagram.com/thepiyushmalhotra/">
+    <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
+  </a>
+  <a href="https://www.instagram.com/thepiyushmalhotra/">
+    <img height="50" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"/>
+  </a>
+  <a href="https://www.instagram.com/thepiyushmalhotra/">
+    <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
+  </a>
+  <a href="https://www.instagram.com/thepiyushmalhotra/">
+    <img height="50" src="https://cdn1.iconfinder.com/data/icons/customer-feedback-soft-fill/60/Website-Testimonial-review-personal-quotation-128.png"/>
+  </a>
 </div>
