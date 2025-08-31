@@ -11,7 +11,7 @@
     <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
   </a>
   <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="50" src="https://eu3-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fstatic1.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F10%2Fx-twtter-logo-black-background.jpg&sp=1756631040T326911631026eba921ba562f816cc59d64d339bfd99bbdc6fcf5a75dd88bb7ba"/>
+    <img height="50" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png"/>
   </a>
   <a href="https://www.instagram.com/thepiyushmalhotra/">
     <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
