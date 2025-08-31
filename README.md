@@ -16,9 +16,9 @@
   </a>
   <br><br>
   <a href="https://discord.com/">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=24"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=12" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://edwinsanjosoji.is-a.dev/">
-    <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/refs/heads/main/assets/Group2.png"/>
+    <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/refs/heads/main/assets/Group2.png" width="100"/>
   </a>
 </div>
