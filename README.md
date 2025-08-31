@@ -2,9 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=01&multiline=true&repeat=false&width=670&height=130&lines=Hello+There;I+am+Edwin+Sanjo+Soji" alt="Typing SVG" /></a>
 </div>
 
-<h1 align="center"> Get In Touch</h1>
-<br><br>
 <div align="center">
+<h1 align="center"> Get In Touch</h1>
+  <br>
   <a href="https://instagram.com/_edwin_12_">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
