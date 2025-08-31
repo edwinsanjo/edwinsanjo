@@ -12,7 +12,7 @@
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=24"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/edwinsanjosoji">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=24"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=24" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
   <a href="https://discord.com/">
@@ -21,5 +21,4 @@
   <a href="https://edwinsanjosoji.is-a.dev/">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://edwinsanjosoji.is-a.dev/&size=square&rounded=24"/>
   </a>
-  
 </div>
