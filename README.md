@@ -19,6 +19,6 @@
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=24"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://edwinsanjosoji.is-a.dev/">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://edwinsanjosoji.is-a.dev/&size=square&rounded=24"/>
+    <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/refs/heads/main/assets/Group%202.png"/>
   </a>
 </div>
