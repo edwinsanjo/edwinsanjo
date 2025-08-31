@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=111&color=gradient&customColorList=30&text=Hello%20World!&descAlign=57&animation=blink&fontAlignY=50"/>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&repeat=false&width=435&lines=Hello+There)](https://git.io/typing-svg)
+<div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&repeat=false&width=435&lines=Hello+There)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&repeat=false&width=435&lines=I+am+Edwin+Sanjo+Soji)](https://git.io/typing-svg)
+</div>
 
 
 <h1 align="center"> Get In Touch</h1>
