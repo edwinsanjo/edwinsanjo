@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://instagram.com/_edwin_12_">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=24"/>
   </a>
   
 </div>
