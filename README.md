@@ -23,7 +23,7 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/_edwin_12_">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=24"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=wide&rounded=24"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/edwin-sanjo-soji" >
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=24"/>
