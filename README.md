@@ -17,6 +17,6 @@
     <img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
   </a>
   <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="50 src="https://vectorified.com/images/personal-website-icon-28.png"/>
+    <img height="50" style="border-radius: 50px;" src="https://vectorified.com/images/personal-website-icon-28.png"/>
   </a>
 </div>
