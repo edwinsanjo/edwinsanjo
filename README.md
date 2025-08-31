@@ -7,7 +7,7 @@
   <a href="https://instagram.com/_edwin_12_">
     <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
   </a>
-  <a href="https://linkedin.com/edwin-sanjo-soji">
+  <a href="https://linkedin.com/in/edwin-sanjo-soji">
     <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
   </a>
   <a href="https://x.com/edwinsanjosoji">
@@ -34,8 +34,8 @@
   <a href="https://discord.com/">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=24"/>
   </a>
-  <a href="https://instagram.com/_edwin_12_">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=24"/>
+  <a href="https://edwinsanjosoji.is-a.dev/">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://edwinsanjosoji.is-a.dev/&size=square&rounded=24"/>
   </a>
   
 </div>
