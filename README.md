@@ -7,16 +7,16 @@
   <a href="https://instagram.com/_edwin_12_">
     <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
   </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <a href="https://linkedin.com/edwin-sanjo-soji">
     <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
   </a>
   <a href="https://x.com/edwinsanjosoji">
     <img height="40" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png"/>
   </a>
-  <a href="">
+  <a href="https://discord.com/">
     <img height="40" src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"/>
   </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <a href="https://edwinsanjosoji.is-a.dev/">
     <img height="40" src="https://vectorified.com/images/personal-website-icon-28.png"/>
   </a>
 </div>
