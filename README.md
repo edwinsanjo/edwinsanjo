@@ -6,13 +6,13 @@
 <br><br>
 <div align="center">
   <a href="https://instagram.com/_edwin_12_">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=24" width="70"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/edwin-sanjo-soji" >
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=24" width="70"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="70"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/edwinsanjosoji">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=24" width="70"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=12" width="70"/>
   </a>
   <br><br>
   <a href="https://discord.com/">
