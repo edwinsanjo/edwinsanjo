@@ -6,7 +6,7 @@
 <div align="center">
 <h1 align="center"> Get In Touch</h1>
   <br>
-  <a href="https://instagram.com/_edwin_12_">
+  <a href="https://instagram.com/_edwin_12_" style="text-decoration: none;">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/edwin-sanjo-soji" >
