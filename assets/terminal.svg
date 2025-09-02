@@ -1,0 +1,113 @@
+<svg width="800" height="520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <foreignObject width="800" height="520">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @keyframes blink {
+                    50% { opacity: 0; }
+                }
+                .container {
+                    font-family: 'Fira Code', 'Courier New', monospace;
+                    background-color: #1A1B27;
+                    border-radius: 8px;
+                    padding: 20px;
+                    border: 1px solid #333;
+                    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+                }
+                .title-bar {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 15px;
+                }
+                .dots {
+                    display: flex;
+                }
+                .dot {
+                    width: 12px;
+                    height: 12px;
+                    border-radius: 50%;
+                    margin-right: 8px;
+                }
+                .red { background-color: #ff5f56; }
+                .yellow { background-color: #ffbd2e; }
+                .green { background-color: #27c93f; }
+                .title {
+                    color: #bbb;
+                    font-size: 14px;
+                    margin: 0 auto;
+                }
+                .terminal {
+                    color: #E0E0E0;
+                    font-size: 14px;
+                    line-height: 1.6;
+                }
+                .prompt {
+                    color: #58A6FF; /* Bright Blue */
+                }
+                .command {
+                    color: #C3E88D; /* Light Green */
+                }
+                .output {
+                    color: #E0E0E0; /* Off-white */
+                }
+                .output a {
+                    color: #82AAFF;
+                    text-decoration: underline;
+                }
+                .cursor {
+                    display: inline-block;
+                    width: 8px;
+                    height: 16px;
+                    background-color: #C3E88D;
+                    animation: blink 1s step-end infinite;
+                    vertical-align: middle;
+                }
+                .skill-icon {
+                    vertical-align: middle;
+                    margin-right: 8px;
+                    height: 20px;
+                }
+            </style>
+            <div class="container">
+                <div class="title-bar">
+                    <div class="dots">
+                        <div class="dot red"></div>
+                        <div class="dot yellow"></div>
+                        <div class="dot green"></div>
+                    </div>
+                    <div class="title">bash --user edwin.s.soji</div>
+                </div>
+                <div class="terminal">
+                    <div><span class="prompt">edwin@github:~$</span> <span class="command">whoami</span></div>
+                    <div class="output">
+                        <strong>Edwin Sanjo Soji</strong><br/>
+                        Student // Cybersecurity &amp; AI Enthusiast<br/>
+                        Architecting secure, intelligent, and resilient systems. Skilled in full-stack development, penetration testing, and cryptography.
+                    </div>
+                    <br/>
+                    <div><span class="prompt">edwin@github:~$</span> <span class="command">ls ./skills</span></div>
+                    <div class="output">
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=python" alt="python"/> Python
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=js" alt="javascript"/> JavaScript
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=react" alt="react"/> React
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/> Node.js
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/> MongoDB
+                        <br/>
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=flutter" alt="flutter"/> Flutter
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=aws" alt="aws"/> AWS
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=docker" alt="docker"/> Docker
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=kali" alt="kali"/> Kali Linux
+                        <img class="skill-icon" src="https://skillicons.dev/icons?i=wireshark" alt="wireshark"/> Wireshark
+                    </div>
+                    <br/>
+                    <div><span class="prompt">edwin@github:~$</span> <span class="command">cat ./projects/spotlight.md</span></div>
+                    <div class="output">
+                        <strong>School Management System</strong> - A full-stack MERN application for educational institutions, featuring role-based access and comprehensive administrative controls.
+                        <a href="https://github.com/edwinsanjo/School-Management-System" target="_blank">[View on GitHub]</a>
+                    </div>
+                    <br/>
+                    <div><span class="prompt">edwin@github:~$</span><span class="cursor"></span></div>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
