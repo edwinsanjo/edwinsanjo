@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="terminal.svg" alt="Edwin Sanjo Soji's Interactive Terminal README" />
+</p>
+
 <div align="center">
 <h1 align="center"></h1>
 </div>
