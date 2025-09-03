@@ -1,105 +1,97 @@
-<!-- Portfolio Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=250&section=header&text=Edwin%20Sanjo%20Soji&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<h1 align="center"></h1>
 </div>
 
----
+<table width="100%" border="0" cellpadding="0" cellspacing="15">
 
-## 👨‍💻 About Me  
+<tr valign="top">
 
-<div align="center">
+<td width="65%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Edwin+Sanjo+Soji" alt="Name Typing SVG" />
+  <h2>Architecting Secure &amp; Intelligent Systems</h2>
+  <p>Student and security enthusiast passionate about the convergence of AI and Cybersecurity. I build and secure full-stack applications, explore cryptographic principles, and conduct penetration tests to make the digital world a safer place.</p>
+</td>
 
-| 💡 Passion | 🔐 Cybersecurity & AI Enthusiast |
-|------------|----------------------------------|
-| 🎓 Education | 1st Year CS Student |
-| 🛠 Skills | Full-stack Dev, Pentesting, Cloud |
-| 🌍 Focus | Building Secure, Intelligent Systems |
-| ✨ Motto | *“Securing tomorrow’s digital world, one system at a time.”* |
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
+</td>
 
-</div>
+</tr>
 
----
+<tr valign="top">
 
-## 📌 Highlights  
+<td width="65%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=🚀+Spotlight+Project" alt="Spotlight Project Header" />
+  <br>
+  <a href="https://github.com/edwinsanjo/School-Management-System" target="_blank">
+    <img src="https://github.com/edwinsanjo/School-Management-System/raw/main/Screenshots/Landing.png" width="100%" alt="Project Screenshot"/>
+  </a>
+  <p>A full-stack MERN application for educational institutions, featuring role-based access and comprehensive administrative controls.</p>
+</td>
 
-<div align="center">
-  <img src="https://github.com/edwinsanjo/edwinsanjo/assets/placeholder/highlights.png" width="100%" alt="Highlights Banner"/>
-</div>
+<td width="35%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=🛠️+Tech+Arsenal" alt="Tech Arsenal Header" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=4" />
+  </a>
+</td>
 
----
+</tr>
 
-## 🚀 Currently Learning  
+<tr valign="top">
 
-<div align="center">
+<td width="65%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=⚡+Live+GitHub+Pulse" alt="GitHub Pulse Header" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinsanjo&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinsanjo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</td>
 
-![Pentesting](https://img.shields.io/badge/-Penetration_Testing-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![AI Security](https://img.shields.io/badge/-AI_Security-0D1117?style=for-the-badge&logo=artstation&logoColor=58A6FF)  
-![Cryptography](https://img.shields.io/badge/-Cryptography-0D1117?style=for-the-badge&logo=keycdn&logoColor=yellow)  
-![DevSecOps](https://img.shields.io/badge/-DevSecOps-0D1117?style=for-the-badge&logo=gitops&logoColor=green)  
+<td width="35%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=🎓+Certifications" alt="Certifications Header" />
+  <table width="100%">
+    <tr align="center">
+      <td>
+        <a href="[LINK_TO_CREDENTIAL]"><img src="./badges/aws-cloud-practitioner.png" width="80" alt="AWS Cloud Practitioner"/></a>
+        <sub><br>AWS Cloud</sub>
+      </td>
+      <td>
+        <a href="[LINK_TO_CREDENTIAL]"><img src="./badges/azure-az900.png" width="80" alt="Azure Fundamentals"/></a>
+        <sub><br>Azure AZ-900</sub>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        <a href="[LINK_TO_CREDENTIAL]"><img src="./badges/aws-certified-ai-practitioner.png" width="80" alt="AWS AI Practitioner"/></a>
+        <sub><br>AWS AI</sub>
+      </td>
+      <td>
+        <a href="[LINK_TO_CREDENTIAL]"><img src="./badges/azure-ai-fundamentals.png" width="80" alt="Azure AI Fundamentals"/></a>
+        <sub><br>Azure AI-900</sub>
+      </td>
+    </tr>
+  </table>
+</td>
 
-</div>
+</tr>
 
----
-
-## 🛠 Tech Stack  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
-</div>
-
----
-
-## 🏆 Achievements  
-
-- 🎖 **AWS Cloud Practitioner & AI Practitioner**  
-- 🎖 **Microsoft Azure AZ-900 & AI-900 Certified**  
-- 🥇 Built a **MERN School Management System** with role-based security  
-- 🛡 Conducted multiple **pentesting labs** with Kali Linux  
-- 🌐 Skilled across **AWS, Azure, and GCP** for cloud security  
-
----
-
-## 📊 Dynamic Widgets  
-
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=edwinsanjo&theme=radical&hide_border=true)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinsanjo&bg_color=0D1117&color=58A6FF&line=00E676&point=FFFFFF&hide_border=true)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=edwinsanjo&theme=radical&no-frame=true&row=1&column=6)  
-
-</div>
-
----
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <img src="https://github.com/edwinsanjo/edwinsanjo/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
----
-
-## 📬 Get In Touch  
+</table>
 
 <div align="center">
-  <a href="https://instagram.com/_edwin_12_">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120" alt="Instagram"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=📫+Get+In+Touch" alt="Get In Touch Header" />
+  <br><br>
+  <a href="https://instagram.com/_edwin_12_" style="text-decoration: none;">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/edwin-sanjo-soji">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="120" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/edwin-sanjo-soji" >
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="120"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/edwinsanjosoji">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=12" width="120" alt="X (Twitter)"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=12" width="120"/>
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=12" width="120" alt="Discord"/>
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=12" width="120"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=footer"/>
 </div>
