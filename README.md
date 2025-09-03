@@ -21,7 +21,8 @@
 <tr valign="top">
 
 <td width="65%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=🚀+Spotlight+Project" alt="Spotlight Project Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Spotlight+Project" alt="Spotlight Project Header" />
+
   <br><br>
   <a href="https://github.com/edwinsanjo/School-Management-System" target="_blank">
     <img src="https://github.com/edwinsanjo/School-Management-System/raw/main/Screenshots/Landing.png" width="100%" alt="Project Screenshot"/>
