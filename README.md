@@ -1,32 +1,47 @@
-<!-- Profile Header -->
+<!-- Portfolio Banner -->
 <div align="center">
-  <h1>👋 Hi, I'm <span style="color:#58A6FF">Edwin Sanjo Soji</span></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&lines=AI+%26+Cybersecurity+Enthusiast;Architecting+Secure+%26+Intelligent+Systems;Full-Stack+Developer+%7C+Pentester" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=250&section=header&text=Edwin%20Sanjo%20Soji&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me  
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <p>
-        🔹 Student & <b>Security Enthusiast</b> passionate about the convergence of <b>Artificial Intelligence</b> and <b>Cybersecurity</b>.  
-        🔹 I design and secure full-stack applications, explore <b>cryptographic principles</b>,  
-        and conduct penetration tests to make the digital world a safer place.  
-        🔹 Fascinated by <b>Cloud, Privacy, and Intelligent Systems</b>.
-      </p>
-    </td>
-    <td width="30%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 💡 Passion | 🔐 Cybersecurity & AI Enthusiast |
+|------------|----------------------------------|
+| 🎓 Education | 1st Year CS Student |
+| 🛠 Skills | Full-stack Dev, Pentesting, Cloud |
+| 🌍 Focus | Building Secure, Intelligent Systems |
+| ✨ Motto | *“Securing tomorrow’s digital world, one system at a time.”* |
+
+</div>
 
 ---
 
-## 🛠 Tech Stack & Skills  
+## 📌 Highlights  
+
+<div align="center">
+  <img src="https://github.com/edwinsanjo/edwinsanjo/assets/placeholder/highlights.png" width="100%" alt="Highlights Banner"/>
+</div>
+
+---
+
+## 🚀 Currently Learning  
+
+<div align="center">
+
+![Pentesting](https://img.shields.io/badge/-Penetration_Testing-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![AI Security](https://img.shields.io/badge/-AI_Security-0D1117?style=for-the-badge&logo=artstation&logoColor=58A6FF)  
+![Cryptography](https://img.shields.io/badge/-Cryptography-0D1117?style=for-the-badge&logo=keycdn&logoColor=yellow)  
+![DevSecOps](https://img.shields.io/badge/-DevSecOps-0D1117?style=for-the-badge&logo=gitops&logoColor=green)  
+
+</div>
+
+---
+
+## 🛠 Tech Stack  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
@@ -34,42 +49,34 @@
 
 ---
 
-## 🌟 Featured Project  
+## 🏆 Achievements  
 
-### 📘 School Management System  
-<a href="https://github.com/edwinsanjo/School-Management-System" target="_blank">
-  <img src="https://github.com/edwinsanjo/School-Management-System/raw/main/Screenshots/Landing.png" width="100%" alt="Project Screenshot"/>
-</a>  
-
-⚡ A full-stack **MERN application** for educational institutions.  
-🔑 Includes **role-based access**, **secure authentication**, and **comprehensive admin controls**.  
+- 🎖 **AWS Cloud Practitioner & AI Practitioner**  
+- 🎖 **Microsoft Azure AZ-900 & AI-900 Certified**  
+- 🥇 Built a **MERN School Management System** with role-based security  
+- 🛡 Conducted multiple **pentesting labs** with Kali Linux  
+- 🌐 Skilled across **AWS, Azure, and GCP** for cloud security  
 
 ---
 
-## 🎓 Certifications  
+## 📊 Dynamic Widgets  
 
 <div align="center">
 
-| Certification | Provider |
-|---------------|-----------|
-| ☁️ AWS Cloud Practitioner | AWS |
-| ☁️ AWS Certified AI Practitioner | AWS |
-| 🔷 Azure AZ-900 | Microsoft |
-| 🔷 Azure AI-900 | Microsoft |
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=edwinsanjo&theme=radical&hide_border=true)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinsanjo&bg_color=0D1117&color=58A6FF&line=00E676&point=FFFFFF&hide_border=true)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=edwinsanjo&theme=radical&no-frame=true&row=1&column=6)  
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 🐍 Contribution Snake  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinsanjo&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinsanjo&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsanjo&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github.com/edwinsanjo/edwinsanjo/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 ---
@@ -94,5 +101,5 @@
 ---
 
 <div align="center">
-  <i>⚡ "Securing tomorrow’s digital world, one system at a time." ⚡</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=footer"/>
 </div>
