@@ -39,16 +39,6 @@ A full-stack MERN application for educational institutions, featuring role-based
 
 <hr>
 
-### GitHub Activity and Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinsanjo&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinsanjo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<hr>
-
 ### Certifications and Education
 
 <div align="center">
@@ -65,13 +55,13 @@ A full-stack MERN application for educational institutions, featuring role-based
 <div align="center">
   <a href="https://instagram.com/_edwin_12_">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120" alt="Instagram"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/edwin-sanjo-soji">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="120" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/edwinsanjosoji">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://x.com/edwinsanjosoji&size=square&rounded=12" width="120" alt="X (Twitter)"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://discord.com/">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://discord.com/&size=square&rounded=12" width="120" alt="Discord"/>
   </a>
