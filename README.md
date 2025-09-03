@@ -31,9 +31,9 @@
 </td>
 
 <td width="35%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=🛠️+Tech+Arsenal" alt="Tech Arsenal Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%9B%80%EF%B8%8F+Tech+Arsenal" alt="Tech Arsenal Header" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=6" />
 </td>
 
 </tr>
