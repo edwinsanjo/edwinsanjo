@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
+  <h1 style="color: #58a6ff;">Edwin Sanjo Soji</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
   <h1 align="center">Edwin Sanjo Soji</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </div>
