@@ -24,7 +24,9 @@
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
 </a>
 </div>
+
 <hr >
+
 ### Featured Projects
 
 #### School Management System
@@ -35,6 +37,8 @@
 
 A full-stack MERN application for educational institutions, featuring role-based access and comprehensive administrative controls.
 
+<hr>
+
 ### GitHub Activity and Stats
 
 <div align="center">
@@ -42,6 +46,8 @@ A full-stack MERN application for educational institutions, featuring role-based
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinsanjo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
+
+<hr>
 
 ### Certifications and Education
 
@@ -51,6 +57,8 @@ A full-stack MERN application for educational institutions, featuring role-based
 * **AWS Certified AI Practitioner**
 * **Azure AI-900**
 </div>
+
+<hr>
 
 ### Get In Touch
 
