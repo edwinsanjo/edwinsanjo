@@ -3,9 +3,6 @@
 </div>
 
 <h1 align="center">Edwin Sanjo Soji</h1>
-
-### Introduction and Bio
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </div>
