@@ -6,23 +6,27 @@
 
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <div style="flex-basis: 70%; text-align: left;">
-    ### About Me
-    I'm a student and security enthusiast passionate about the convergence of AI and Cybersecurity. I build and secure full-stack applications, explore cryptographic principles, and conduct penetration tests to make the digital world a safer place.
-  </div>
-  <div style="flex-basis: 30%; text-align: center;">
-    <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>About Me</h3>
+      <p>I'm a student and security enthusiast passionate about the convergence of AI and Cybersecurity. I build and secure full-stack applications, explore cryptographic principles, and conduct penetration tests to make the digital world a safer place.</p>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Tech Stack and Skills
 
+<div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
 </a>
+</div>
 
 ---
 
@@ -50,10 +54,12 @@ A full-stack MERN application for educational institutions, featuring role-based
 
 ### Certifications and Education
 
+<div align="center">
 * **AWS Cloud Practitioner**
 * **Azure AZ-900**
 * **AWS Certified AI Practitioner**
 * **Azure AI-900**
+</div>
 
 ---
 
