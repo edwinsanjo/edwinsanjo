@@ -52,10 +52,10 @@ A full-stack MERN application for educational institutions, featuring role-based
 ### Certifications and Education
 
 <div align="center">
-* **AWS Cloud Practitioner**
-* **Azure AZ-900**
-* **AWS Certified AI Practitioner**
-* **Azure AI-900**
+- **AWS Cloud Practitioner**
+- **Azure AZ-900**
+- **AWS Certified AI Practitioner**
+- **Azure AI-900**
 </div>
 
 <hr>
