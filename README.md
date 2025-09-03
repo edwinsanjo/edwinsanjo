@@ -1,19 +1,21 @@
-
-
-
-
-
-
 <div align="center">
-  <h1 align="center">Edwin Sanjo Soji</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+  <h1>Edwin Sanjo Soji</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </div>
+
+---
+
+## 👨‍💻 About Me  
 
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h3>About Me</h3>
-      <p>I'm a student and security enthusiast passionate about the convergence of AI and Cybersecurity. I build and secure full-stack applications, explore cryptographic principles, and conduct penetration tests to make the digital world a safer place.</p>
+      <p>
+        I'm a student and <b>security enthusiast</b> passionate about the convergence of 
+        <b>Artificial Intelligence</b> and <b>Cybersecurity</b>.  
+        I build and secure full-stack applications, explore cryptographic principles, 
+        and conduct penetration tests to make the digital world a safer place.
+      </p>
     </td>
     <td width="30%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
@@ -21,43 +23,41 @@
   </tr>
 </table>
 
-<hr>
+---
 
-### Tech Stack and Skills
+## 🛠 Tech Stack & Skills  
 
 <div align="center">
-<a href="#">
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
-</a>
 </div>
 
-<hr >
+---
 
-### Featured Projects
+## 🚀 Featured Project  
 
-#### School Management System
-
+### 📘 School Management System  
 <a href="https://github.com/edwinsanjo/School-Management-System" target="_blank">
   <img src="https://github.com/edwinsanjo/School-Management-System/raw/main/Screenshots/Landing.png" width="100%" alt="Project Screenshot"/>
-</a>
+</a>  
 
-A full-stack MERN application for educational institutions, featuring role-based access and comprehensive administrative controls.
+A full-stack **MERN** application for educational institutions, featuring **role-based access** and comprehensive **administrative controls**.  
 
-<hr>
+---
 
-### Certifications and Education
+## 🎓 Certifications & Education  
 
 <div align="center">
-  
- **AWS Cloud Practitioner** 
-**Azure AZ-900**
- **AWS Certified AI Practitioner**
-**Azure AI-900**
+
+- **AWS Cloud Practitioner**  
+- **Azure AZ-900**  
+- **AWS Certified AI Practitioner**  
+- **Azure AI-900**
+
 </div>
 
-<hr>
+---
 
-### Get In Touch
+## 📬 Get In Touch  
 
 <div align="center">
   <a href="https://instagram.com/_edwin_12_">
