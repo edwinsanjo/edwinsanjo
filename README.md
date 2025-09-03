@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
----
-
 <table>
   <tr>
     <td width="70%" valign="top">
@@ -17,8 +15,6 @@
   </tr>
 </table>
 
----
-
 ### Tech Stack and Skills
 
 <div align="center">
@@ -26,8 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
 </a>
 </div>
-
----
 
 ### Featured Projects
 
@@ -39,8 +33,6 @@
 
 A full-stack MERN application for educational institutions, featuring role-based access and comprehensive administrative controls.
 
----
-
 ### GitHub Activity and Stats
 
 <div align="center">
@@ -48,8 +40,6 @@ A full-stack MERN application for educational institutions, featuring role-based
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinsanjo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
-
----
 
 ### Certifications and Education
 
@@ -59,8 +49,6 @@ A full-stack MERN application for educational institutions, featuring role-based
 * **AWS Certified AI Practitioner**
 * **Azure AI-900**
 </div>
-
----
 
 ### Get In Touch
 
