@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Edwin+Sanjo+Soji" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Edwin Sanjo Soji</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
-</div>
+<h1 align="center">Architecting Secure & Intelligent Systems</h1>
 
 ---
 
-### About Me
-
-Student and security enthusiast passionate about the convergence of AI and Cybersecurity. I build and secure full-stack applications, explore cryptographic principles, and conduct penetration tests to make the digital world a safer place.
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
+  <div style="flex-basis: 70%; text-align: left;">
+    ### About Me
+    I'm a student and security enthusiast passionate about the convergence of AI and Cybersecurity. I build and secure full-stack applications, explore cryptographic principles, and conduct penetration tests to make the digital world a safer place.
+  </div>
+  <div style="flex-basis: 30%; text-align: center;">
+    <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
+  </div>
+</div>
 
 ---
 
