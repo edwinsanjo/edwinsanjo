@@ -41,7 +41,7 @@
 <tr valign="top">
 
 <td width="65%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=⚡+GitHub+Pulse" alt="GitHub Pulse Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+GitHub+Pulse" alt="GitHub Pulse Header" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinsanjo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
   <br><br>
@@ -49,7 +49,7 @@
 </td>
 
 <td width="35%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=🎓+Certifications" alt="Certifications Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%8E%93+Certifications" alt="Certifications Header" />
   <table width="100%">
     <tr align="center">
       <td>
@@ -79,7 +79,7 @@
 <tr valign="top">
 
 <td colspan="2" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=500&lines=📫+Get+In+Touch" alt="Get In Touch Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Get+In+Touch" alt="Get In Touch Header" />
   <br><br>
   <a href="https://instagram.com/_edwin_12_"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120"/></a>
   <a href="https://linkedin.com/in/edwin-sanjo-soji"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="120"/></a>
