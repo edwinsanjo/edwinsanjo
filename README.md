@@ -14,7 +14,7 @@
     </td>
   </tr>
 </table>
-
+<hr>
 ### Tech Stack and Skills
 
 <div align="center">
@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
 </a>
 </div>
-
+<hr >
 ### Featured Projects
 
 #### School Management System
