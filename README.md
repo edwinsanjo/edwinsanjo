@@ -20,7 +20,7 @@
 ### Tech Stack and Skills
 
 <div align="center">
-<a href="https://skillicons.dev">
+<a href="#">
   <img src="https://skillicons.dev/icons?i=python,js,bash,react,nodejs,express,mongodb,flutter,git,docker,aws,gcp,azure,kali,wireshark&perline=8" />
 </a>
 </div>
