@@ -14,7 +14,9 @@
     </td>
   </tr>
 </table>
+
 <hr>
+
 ### Tech Stack and Skills
 
 <div align="center">
