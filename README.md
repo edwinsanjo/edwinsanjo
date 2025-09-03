@@ -1,4 +1,22 @@
 <div align="center">
+  <table width="100%">
+    <tr>
+      <td width="70%" valign="top">
+        <h1 align="left" style="font-size: 3rem; margin: 0;">Edwin Sanjo Soji</h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+      </td>
+      <td width="30%" align="right" valign="top">
+        <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+<div align="center">
   <h1 align="center">Edwin Sanjo Soji</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&background=0D111700&center=false&vCenter=true&width=500&lines=Architecting+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </div>
