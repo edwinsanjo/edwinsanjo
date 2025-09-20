@@ -13,7 +13,7 @@
 </td>
 
 <td width="35%" align="center">
-  <a href="https://discord.com/">
+  <a href="https://edwinsanjosoji.is-a.dev/">
     <img src="https://raw.githubusercontent.com/edwinsanjo/edwinsanjo/main/assets/Group%202.png" width="170px" alt="Profile Logo"/>
   </a>
 </td>
