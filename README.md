@@ -81,7 +81,7 @@
 <tr valign="top">
 
 <td colspan="2" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Get+In+Touch" alt="Get In Touch Header" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/madbot090.png" alt="Your Image Badge" />
   <br><br>
   <a href="https://instagram.com/_edwin_12_"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://instagram.com/_edwin_12_&size=square&rounded=12" width="120"/></a>
   <a href="https://linkedin.com/in/edwin-sanjo-soji"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://linkedin.com/in/edwin-sanjo-soji&size=square&rounded=12" width="120"/></a>
@@ -93,5 +93,4 @@
 
 </table>
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5767764" style='border:none;' />
 
