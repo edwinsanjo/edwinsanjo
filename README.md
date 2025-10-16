@@ -46,7 +46,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+GitHub+Pulse" alt="GitHub Pulse Header" />
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/madbot090.png" alt="Your Image Badge" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinsanjo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinsanjo&show_icons=true&layout=compact&theme=tokyonight" width="80%%" alt="Top Languages"/>
 </td>
